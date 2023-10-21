@@ -1,0 +1,14 @@
+.patcoTitle{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    font-family:roboto;
+    background-color:#3853a4;
+    height:80vh;
+}
+
+.hedding{
+    color:white;
+    font-size:50px;
+}
